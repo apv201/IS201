@@ -1,0 +1,68 @@
+.sheet-header {
+    color: blue
+
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    text-align: center;
+    color: white;
+}
+
+.footer{
+    bottom: 0;
+    left: 0;
+    right:0;
+    height: 50px;
+    text-align: center;
+    color: #f58774c5;
+    position:fixed;
+}
+
+body {
+    background-color: #c7e7e3;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tableau-1{
+    top: 110px;
+    left: 5px;
+    right: 500px;
+    bottom: 400px;
+}
+
+a {
+    color: #f58774;
+    text-decoration: unset;
+}
+
+a:hover {
+    color: white;
+    text-decoration: underline; 
+}
+
+.common{
+    /* background-color: #f58774;
+    border: solid 2px white; */
+    position:absolute;
+}
+
+.main-body{
+    top: 110px;
+    left: 5px;
+    right: 5px;
+    bottom: 60px;
+}
+
+.custom-menu{
+    text-align: right;
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+    color: #f58774;
+}
